@@ -1,4 +1,4 @@
-# Fanchatbot — BYOK Multi-Channel AI Automation Platform
+# smartGenchatbot — BYOK Multi-Channel AI Automation Platform
 
 A multi-tenant chatbot gateway. Tenants connect WhatsApp, Telegram, Messenger,
 and Email, and bring their own OpenAI / Gemini / Groq (LLaMA 3.1) / Manus API
